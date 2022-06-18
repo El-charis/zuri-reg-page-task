@@ -1,4 +1,5 @@
-* {
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');* {
   margin: 0;
   padding: 0;
 }
@@ -52,12 +53,16 @@ h1 {
   line-height: 40px;
   text-align: center;
   padding-bottom: 10px;
+  font-family: poppins;
 }
-
+p{
+  font-family: poppins;
+}
 p.text {
   font-family: var(--font);
   font-weight: var(--thin);
   line-height: 50px;
+  font-family: poppins;
 }
 
 .text {
