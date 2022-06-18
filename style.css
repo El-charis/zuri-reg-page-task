@@ -137,6 +137,7 @@ input[type="submit"] {
   cursor: pointer;
   font-family: var(--font);
   font-weight: var(--normal);
+  animation: background 2s;
 }
 
 input[type="submit"]:hover {
